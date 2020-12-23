@@ -44,6 +44,7 @@ elif len(found) < 3:
 for x in range(0, max_entries):
     info = getGameInfo(found[x])
     table.add_row(str(x+1), info['name'], info['price'], info['link'])
+    table.add_row()
 
 print()
 console.print(table)
