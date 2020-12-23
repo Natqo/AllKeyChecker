@@ -1,5 +1,5 @@
 # AllKeyChecker
-a small tool to check prices on allkeyshop.com
+a small tool to check prices on [allkeyshop.com](https://www.allkeyshop.com/blog/)
 
 ## example
 ![example](https://github.com/Natqo/AllKeyChecker/blob/main/example.gif?raw=true)
