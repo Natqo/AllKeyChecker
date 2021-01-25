@@ -8,9 +8,7 @@ a small tool to check prices on [allkeyshop.com](https://www.allkeyshop.com/blog
 ## [download](https://github.com/Natqo/AllKeyChecker/releases)
 
 ## usage
-run the file (either .py or .exe) and type in the game title
+run the file and type in the game title
 
 note that your console should be wide enough to display the links or the program might bug out
 
-## roadmap
-compile it to exe
