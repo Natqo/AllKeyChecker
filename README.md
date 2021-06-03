@@ -5,7 +5,6 @@ a small tool to check prices on [allkeyshop.com](https://www.allkeyshop.com/blog
 ## example
 
 ![example](https://github.com/Natqo/AllKeyChecker/blob/main/example.gif?raw=true)
-<sup>note that colors are off due to .gif</sup>
 
 ## [download](https://github.com/Natqo/AllKeyChecker/releases)
 
@@ -20,6 +19,8 @@ python3 AllKeyChecker.py
 
 ## usage
 
-run the file and type in the game title
+type `AllKeyChecker [Game Name]` in your terminal
 
-note that your console should be wide enough to display the links or the program might bug out
+## disclaimer
+
+because i didn't compile bootloader for pyinstaller before compiling .exe, the said exe file could be flagged as a virus, ill get them compiled one day, for now either allow the exe file on your antivirus or build it yourself using [pyinstaller](https://www.pyinstaller.org/)
